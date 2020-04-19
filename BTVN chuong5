@@ -1,0 +1,35 @@
+LDRH r1,[r0]
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
+				
+				LDRH r1,[r0,#2]!
+				orr r1,r1,#2_1000
+				STRH r1,[r0]
